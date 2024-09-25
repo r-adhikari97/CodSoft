@@ -1,0 +1,36 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Ignore Jupyter configuration and settings
+.jupyter/
+.ipython/
+
+# Ignore data files
+*.csv
+*.hdf5
+*.json
+*.xlsx
+
+# Ignore Jupyter notebook output files
+*.nbconvert/
+*.html
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.out
+
+# Ignore environment files
+.env
+.env.local
